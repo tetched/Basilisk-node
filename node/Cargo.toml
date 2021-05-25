@@ -5,7 +5,7 @@ description = 'Basilisk node'
 edition = '2018'
 homepage = 'https://github.com/galacticcouncil/Basilisk-node'
 license = 'Apache 2.0'
-name = 'basilisk'
+name = 'cobra'
 repository = 'https://github.com/galacticcouncil/Basilisk-node'
 version = '3.0.0'
 
