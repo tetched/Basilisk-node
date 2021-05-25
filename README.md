@@ -1,4 +1,4 @@
-# Basilisk node
+# Cobra node
 
 ## Local Development
 
